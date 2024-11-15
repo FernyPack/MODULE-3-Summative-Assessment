@@ -1,0 +1,11 @@
+/* styles.css */
+body {
+    margin: 0;
+    padding: 0;
+    overflow: hidden; /* Prevents scrolling */
+  }
+  
+  canvas {
+    display: block; /* Ensures canvas takes up the full screen */
+  }
+  
